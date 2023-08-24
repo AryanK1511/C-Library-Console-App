@@ -1,12 +1,3 @@
-// Final Project Milestone 1
-// Date Module
-// File  Date.h
-// Version 1.0
-// Author   Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
 #ifndef SDDS_DATE_H__
 #define SDDS_DATE_H__
 #include <iostream>
